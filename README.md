@@ -15,3 +15,5 @@ contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
 
 Made changes to the repo by creating Jenkinsfile pipeline that Jenkins uses to start the build process.
+
+I am testing git revision control management system.
